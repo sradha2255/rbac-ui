@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "06e1",
+      "name": "Sradha",
+      "email": "sradha@123",
+      "role": "Assistant",
+      "status": "Inactive",
+      "permissions": [
+        "Write"
+      ]
+    }
+  ]
+}

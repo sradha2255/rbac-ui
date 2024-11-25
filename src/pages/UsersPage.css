@@ -1,0 +1,18 @@
+/* UsersPage.css */
+form {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  button {
+    margin-left: 5px;
+  }
+  
