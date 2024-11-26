@@ -31,7 +31,24 @@ cd rbac-ui
 Install Dependencies
 Install the required packages:
 
-npm install
+1.React: To create the frontend.
+
+Installed automatically when creating the React app using npx create-react-app.
+2.Axios: For making HTTP requests to the backend (JSON Server in this case).
+
+3.npm install axios
+JSON Server: To mock a backend API for managing users, roles, and permissions.
+
+4.npm install -g json-server
+
+5.Material-UI
+npm install @mui/material @emotion/react @emotion/styled
+
+6.React Router DOM: For navigation between pages (e.g., Login, Users Page, etc.).
+npm install react-router-dom
+
+7.npm install
+
 Start the JSON Server
 Start the mock backend server:
 npx json-server --watch db.json --port 3001
