@@ -78,6 +78,10 @@ Technologies Used
 3.JSON Server: Mock backend server.
 4.Axios: For API requests.
 
+Admin Login
+Username : admin
+Password : password
+
 Author
 Name: Sradha
 Email: your-email@example.com
